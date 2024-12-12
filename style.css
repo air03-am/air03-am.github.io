@@ -1,0 +1,77 @@
+/* *{
+    font-family: "Roboto Flex", sans-serif
+} */
+
+/* Estilos header */
+
+header{
+    background-color: #42404B;
+    font-family: "Quantico", sans-serif;   
+}
+header span{
+    color: #EBEBE9;
+}
+.nav-item a{
+    color: #EBEBE9;
+}
+#boton-perfil{
+    background-color: #d31d4d;
+}
+.nav-item a:hover{
+    color: #d31d4d;
+}
+/* Main */
+/* Estilos hero */
+#app{
+    color: #d31d4d;
+    
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Quantico", sans-serif; 
+}
+p{
+    font-family: "Roboto Flex", sans-serif;
+}
+.boton_cv{
+    background-color: #4b73c8;
+    color:#EBEBE9;
+}
+.caja_habilidades{
+    background-color: rgb(211,29,77);
+    color: #EBEBE9;
+}
+.btn_proyectos{
+    background-color: #4b73c8;
+}
+.btn_proyectos a{
+    text-decoration: none;
+    color: #EBEBE9;
+}
+.card .card-title{
+    color: #4b73c8;
+}
+#contacto{
+    background-color: #d31d4d;
+    color: #EBEBE9;
+}
+.btn-contactame{
+    background-color: #4b73c8;
+    color: #EBEBE9;
+}
+.btn-contactame:hover{
+background-color: #EBEBE9;
+    color: #42404B;
+}
+
+footer li a i{
+
+    color: #d31d4d;
+}
+footer p{
+    color: #42404B;
+}
+
+footer p a{
+    text-decoration: none;
+    color: #d31d4d;
+}
